@@ -134,5 +134,3 @@ toggle_btn.pack(pady=5)
 apply_theme(current_theme)
 
 root.mainloop()
-
-
